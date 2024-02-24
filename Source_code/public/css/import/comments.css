@@ -1,0 +1,36 @@
+.comment-section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 16px;
+}
+
+.answer-small-btn {
+    color: blue;
+    cursor: pointer;
+}
+
+.send-comment-btn {
+    margin-top: 10px;
+    padding: 4px;
+    color: white;
+    background-color: rgb(237, 72, 72);
+    width: 200px;
+    border: none;
+    border-radius: 10px;
+}
+
+.admin-comment-field {
+    padding: 8px;
+    background: rgb(255,212,0);
+    border: 1px solid #dfdfdf;
+    border-radius: 10px;
+    /* border-color: gray; */
+}
+
+.comment-field {
+    padding: 8px;
+    background: #f8f8f8;
+    border: 1px solid #dfdfdf;
+    border-radius: 10px;
+    /* border-color: gray; */
+}
